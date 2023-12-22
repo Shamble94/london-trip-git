@@ -3,3 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+li{
+    list-style: none;
+}
+.bg-aqua{
+    background-color: lightgray;
+    color: red
+}
+.text-black{
+    color: black
+}
+img:hover{
+    opacity:0.5
+}
